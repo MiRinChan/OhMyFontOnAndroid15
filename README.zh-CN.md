@@ -21,7 +21,7 @@
 
 有报告说 Android15 QPR1 Beta 3 **不会生效**。
 
-该扩展应该能在所有的 OMF 模块上生效。
+有报告说这只会在 OhMyFont 和 GoogleSansPrime 模块上生效。
 
 ## 版权
 
