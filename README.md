@@ -27,6 +27,6 @@ It should be work on OMF universe.
 
 ## Copyright
 
-- @Fishawy and tester - *They make this possible.*
-- @MiRinChan - *Make a initial script of it.*
-- @MFFMMain - *MFFM make it as a OMF extension.*
+- [@Fishawy](https://t.me/Fishawy) and tester - *They make this possible.*
+- [@MiRinChan](https://github.com/MiRinChan) - *Make a initial script of it.*
+- [@MFFMMain](https://t.me/MFFMMain) - *MFFM make it as a OMF extension.*

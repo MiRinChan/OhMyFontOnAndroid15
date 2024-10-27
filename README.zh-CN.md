@@ -25,6 +25,6 @@
 
 ## 版权
 
-- @Fishawy 及其测试的人 - *让一切变得可能*
-- @MiRinChan - *做了一个原型脚本*
-- @MFFMMain - *MFFM 把这个做成了 OMF 扩展*
+- [@Fishawy](https://t.me/Fishawy) 及其测试的人 - *让一切变得可能*
+- [@MiRinChan](https://github.com/MiRinChan) - *做了一个原型脚本*
+- [@MFFMMain](https://t.me/MFFMMain) - *MFFM 把这个做成了 OMF 扩展*
