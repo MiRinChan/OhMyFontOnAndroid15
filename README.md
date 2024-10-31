@@ -23,7 +23,7 @@ Someone reported it **may crased** SystemUI on crDroid Android15.
 
 Someone reported it may **won't work** on Android15 QPR1 Beta 3.
 
-It should be work on OMF universe.
+~~It should be work on OMF universe.~~ Someone reported it only affect OhMyFont, GoogleSansPrime. Other OMF-based won't taken affect.
 
 ## Another way (refer to [therealhndrk](https://t.me/therealhndrk)), if you have problem of availability
 
