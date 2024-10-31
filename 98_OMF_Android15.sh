@@ -14,7 +14,7 @@
 
 # Availability:
 ## I tested on GoogleSansPrime with Pixel 8, stock factory Android15 (AP3A.241005.015).
-## Someone reported it may crased SystemUI on crDroid Android15.
+## Someone reported it may crashed SystemUI on crDroid Android15.
 ## Someone reported it may won't work on Android15 QPR1 Beta 3.
 ## Someone reported it only affect OhMyFont, GoogleSansPrime. Other OMF-based won't taken affect.
 

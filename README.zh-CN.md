@@ -25,7 +25,7 @@
 
 ## 如果你有上述的可用性问题，可以用另一种方法 (参考 [therealhndrk](https://t.me/therealhndrk))
 
-先安装 OhMyFont，然后做个模块替换 Roboto 和 Roboto Flex。
+先安装 OhMyFont，重启，转到`/data/adb/modules/ohmyfont/system/fonts/` 替换 Roboto 和 Roboto Flex，重启。
 
 不需要用到此脚本。
 

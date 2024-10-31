@@ -19,7 +19,7 @@
 
 I tested on GoogleSansPrime with Pixel 8, stock factory Android15 (AP3A.241005.015).
 
-Someone reported it **may crased** SystemUI on crDroid Android15.
+Someone reported it **may crashed** SystemUI on crDroid Android15.
 
 Someone reported it may **won't work** on Android15 QPR1 Beta 3.
 
@@ -27,7 +27,7 @@ Someone reported it may **won't work** on Android15 QPR1 Beta 3.
 
 ## Another way (refer to [therealhndrk](https://t.me/therealhndrk)), if you have problem of availability
 
-Flash OhMyFont first, and make module and replace Roboto and Roboto Flex.
+Flash OhMyFont first, reboot, and replace Roboto and Roboto Flex in `/data/adb/modules/ohmyfont/system/fonts/`. Reboot.
 
 Without this script.
 
