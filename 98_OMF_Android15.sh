@@ -1,6 +1,9 @@
 # OMF is could be used on Android15 Extension
 # 2024/10/27 | vNoVersion.
 
+# Without this script:
+## refer to https://github.com/MiRinChan/OhMyFontOnAndroid15
+
 # Instructions:
 ## 1. Copy this file to:
 ##     Internel storage (aka /sdcard)

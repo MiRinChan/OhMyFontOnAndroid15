@@ -23,6 +23,12 @@
 
 该扩展应该能在所有的 OMF 模块上生效。
 
+## 如果你有上述的可用性问题，可以用另一种方法 (参考 [therealhndrk](https://t.me/therealhndrk))
+
+先安装 OhMyFont，然后做个模块替换 Roboto 和 Roboto Flex。
+
+不需要用到此脚本。
+
 ## 版权
 
 - [@Fishawy](https://t.me/Fishawy) 及其测试的人 - *让一切变得可能*
