@@ -16,7 +16,7 @@
 
 3. 把 OhMyFont 或者 GoogleSansPrime 刷进去。
 
-## 可用性 & 为什么用 Shamiso？
+## 可用性 & 为什么用 Shamiko？
 
 我已经用 GoogleSansPrime 测过了，手机 Pixel 8，原厂原生 Android15 (AP3A.241005.015)。
 
