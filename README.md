@@ -1,8 +1,10 @@
 # OMF is could be used on Android15 Extension
 
-[中文](README.zh-CN.md)
+[> 简体中文 <](README.zh-CN.md)
 
 ## Instructions
+
+0. Install [Shamiko(@LSPosed)](https://t.me/LSPosed/278) if you did't install it.
 
 1. Copy [98_OMF_Android15.sh](98_OMF_Android15.sh) to:
 
@@ -13,19 +15,24 @@
     ```
 
 2. Open your modules manager (Magisk, KernelSU, APatch).
+
 3. Flash OhMyFont or GoogleSansPrime.
 
-## Availability
+## Availability & Why Shamiko?
 
 I tested on GoogleSansPrime with Pixel 8, stock factory Android15 (AP3A.241005.015).
 
-Someone reported it **may crashed** SystemUI on crDroid Android15.
-
-Someone reported it may **won't work** on Android15 QPR1 Beta 3.
-
 ~~It should be work on OMF universe.~~ Someone reported it only affect OhMyFont, GoogleSansPrime. Other OMF-based won't taken affect.
 
-## Another way (refer to [therealhndrk](https://t.me/therealhndrk)), if you have problem of availability
+### Shamiko is important
+
+TL;DR Shamiko will preloading font. If font file is umount, the application which use these font, will crash.
+
+> On Android N and above, Fd allowlist is used by system, All preloading resource including overlay apk need close while zygote fork as app, then reopen. If file corresponding to fd does not exist isn't exsit while opening, the process will crash.
+
+For more infomation: [see here (in Chinese)](https://t.me/qianqianzhuang/34).
+
+## Another way (refer to [therealhndrk](https://t.me/therealhndrk)), if you can't use this script
 
 Flash OhMyFont first, reboot, and replace Roboto and Roboto Flex in `/data/adb/modules/ohmyfont/system/fonts/`. Reboot.
 
@@ -36,3 +43,7 @@ Without this script.
 - [@Fishawy](https://t.me/Fishawy) and tester - *They make this possible.*
 - [@MiRinChan](https://github.com/MiRinChan) - *Make a initial script of it.*
 - [@MFFMMain](https://t.me/MFFMMain) - *MFFM make it as a OMF extension.*
+
+## Credit
+
+- [@LSPosed developers](https://github.com/LSPosed/) - *Help me write document and provide a easy way to use font module.*
