@@ -38,6 +38,9 @@ Flash OhMyFont first, reboot, and replace Roboto and Roboto Flex in `/data/adb/m
 
 Without this script.
 
+## Similar Extension
+[MFFM's script.](https://t.me/MFFMMain/3731)
+
 ## Copyright
 
 - [@Fishawy](https://t.me/Fishawy) and tester - *They make this possible.*
