@@ -1,3 +1,9 @@
+# Notice
+
+Up to now, Oh My Font had updated. Now you can use this module without this extension.
+
+---
+
 # OMF is could be used on Android15 Extension
 
 [> 简体中文 <](README.zh-CN.md)
